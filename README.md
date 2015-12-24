@@ -1,5 +1,8 @@
 ## Website Performance Optimization portfolio project
 
+Navigate to views file
+Click on pizza.html
+
 Part 1: Optimize PageSpeed Insights score for index.html
 
 Inlined CSS directly to index.html
